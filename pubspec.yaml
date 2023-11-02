@@ -1,0 +1,28 @@
+name: netex
+description: A helper package to handle http error code when using the http dart package. For a ready to use client using netex see the netex_http
+version: 1.0.0
+homepage: https://github.com/shalien/netex
+repository: https://github.com/shalien/netex
+issue_tracker: https://github.com/shalien/netex/issues
+
+funding:
+  - https://www.patreon.com/shalien
+  - https://ko-fi.com/shalien
+  - https://www.buymeacoffee.com/shalien
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  http: ^1.1.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
+
+
+topics:
+  - network
+  - http
+  - error
+  - netex
